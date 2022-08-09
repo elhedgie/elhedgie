@@ -6,7 +6,7 @@ My name is Liza (Lizbet) and I am a beginner frontend developer!
   * I finished SKILLBOX Weblayout and JavaScript courses
   * I'm learning React JS, Redux and Typescript by myself. This is one of my important skills - I am always ready to learn new things independently, taking responsibilities for my own success and progress
   * Also I am studying algorithms and never stop exploring CSS, HTML and JS features! That's apprently a hobby of mine 
-  * My previous career was connected with teaching kids English. Here is my significant skill: I am able to teach, I always find a way to communicate ecologically, I know where to find information and how to work with it. 
+  * My previous career was connected with teaching kids English. Here is my significant skill: I am able to teach, I always find a way to communicate nonviolently, I know where to find information and how to work with it. 
   * Also I worked as a manager and my responsibility was to control how the work is going, to teach newbies how to be efficient and to make everything work as it must work!
   
 
