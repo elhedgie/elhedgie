@@ -1,5 +1,5 @@
 # Hello, my guys 🌝
-My name is Liza (Lizbet) and I am a frontend developer!
+My name is Liza and I am a frontend developer!
 
 # What you need to know about me: 
 
